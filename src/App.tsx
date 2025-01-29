@@ -8,7 +8,7 @@ function App() {
   const [volume, setVolume] = useState(0.3); // Start at 30% volume
   const [showVolume, setShowVolume] = useState(false);
   const audioRef = useRef<HTMLAudioElement>(null);
-  const contractAddress = "test";
+  const contractAddress = "(on twitter / will be updated here)";
 
   const memeQuotes = [
     "Never gonna give you up! 🎵",
