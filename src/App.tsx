@@ -71,7 +71,7 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="flex justify-between items-center h-16">
             <span className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-purple-500 animate-pulse [text-shadow:_0_0_15px_rgb(236_72_153_/_30%)]">
-              $NEVERGIVEUP
+              $NVERGIVEUP
             </span>
             <div className="flex items-center gap-6">
               {/* Volume Controls */}
@@ -139,7 +139,7 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="text-left z-10 space-y-6">
               <h1 className="text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-purple-500">
-                $NEVERGIVEUP
+                $NVERGIVEUP
               </h1>
               <p className="text-2xl text-gray-300">You Know The Rules, And So Do We 🎵</p>
               
@@ -269,7 +269,7 @@ function App() {
               <p className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-purple-500">
                 1,000,000,000
               </p>
-              <p className="text-gray-400">$NEVERGIVEUP</p>
+              <p className="text-gray-400">$NVERGIVEUP</p>
             </div>
           </div>
         </div>
